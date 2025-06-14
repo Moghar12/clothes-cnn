@@ -64,7 +64,7 @@ streamlit run app.py
 
 ---
 
-##🖼️ Interface utilisateur
+## 🖼️ Interface utilisateur
 
 <img width="424" alt="Capture d’écran 2025-06-14 à 12 48 13" src="https://github.com/user-attachments/assets/a9f3d7f2-8784-4ab4-82b7-3eefc29018b9" />
 
