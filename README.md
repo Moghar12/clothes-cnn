@@ -36,6 +36,7 @@ Assure-toi que Python 3.7 ou supérieur est installé, puis installe les dépend
 
 ```bash
 pip install streamlit torch torchvision pillow
+```
 
 ---
 
@@ -63,20 +64,6 @@ streamlit run app.py
 
 ---
 
-## 🧪 Utilisation
-
-1. Lance l’application avec streamlit run app.py.
-
-2. Dans l’interface Streamlit, clique sur "Uploade une image de vêtement".
-
-3. Choisis une image au format .png, .jpg, ou .jpeg.
-
-4. L’image est automatiquement prétraitée et envoyée au modèle.
-
-5. La classe prédite s’affiche en bas.
-
----
-
 ##🖼️ Interface utilisateur
 
 <img width="424" alt="Capture d’écran 2025-06-14 à 12 48 13" src="https://github.com/user-attachments/assets/a9f3d7f2-8784-4ab4-82b7-3eefc29018b9" />
@@ -86,5 +73,5 @@ streamlit run app.py
 ## 📬 Contact
 
 Développé par Ali Moghar
-📧 Email : ton.moghar10@gmail.com
+📧 Email : mogharali10@gmail.com
 
