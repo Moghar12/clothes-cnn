@@ -73,5 +73,6 @@ streamlit run app.py
 ## 📬 Contact
 
 Développé par Ali Moghar
+
 📧 Email : mogharali10@gmail.com
 
