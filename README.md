@@ -45,6 +45,7 @@ Utilise la commande suivante pour démarrer l’application Streamlit :
 
 ```bash
 streamlit run app.py
+```
 
 ---
 
